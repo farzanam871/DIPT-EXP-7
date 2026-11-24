@@ -1,4 +1,4 @@
-<img width="572" height="710" alt="Screenshot 2026-11-24 150922" src="https://github.com/user-attachments/assets/80518524-78e6-4bdd-be9f-4486a8fe4020" />#  Lane Detection
+#  Lane Detection
 
 ##  Aim
 
